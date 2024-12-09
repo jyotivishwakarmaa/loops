@@ -2,11 +2,13 @@
 using namespace std;
 
 int main(){
-
-    for(int i=1; i<=5; i++){
+    int i=0;
+    int j=0;
         
-        for(int j=1; j<=i; j++){
+    do{
         cout<<"*";
-    }
-  }
+        i++;
+   
+    }while(i<=5);
+
 }

@@ -12,6 +12,7 @@ int main(){
 
             cout<<i*j<<endl;
         }
+        
 
     }
-    }
+}
